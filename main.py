@@ -222,4 +222,4 @@ async def multiple_choice(ctx):
 
 
 # Remplacez 'YOUR_BOT_TOKEN' par le token de votre bot
-bot.run('MTE0OTY5MjAxNDY3MDExOTA2NA.GFvGWS.O_zoaQndOGBTaDYP3OvY2H4SJeewqZ1og66F1s')
+bot.run('TOKENHERE')
